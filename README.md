@@ -14,3 +14,5 @@ A collection of simple tools, scripts, and frameworks to help performance market
 - Media buyers
 ## 🔄 Ongoing work
 Actively adding more automation scripts and tools.
+## ⚙️ Scripts
+- Budget pacing automation script for Google Ads
